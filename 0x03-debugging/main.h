@@ -1,4 +1,3 @@
-clear
 #include <stdio.h>
 
 
